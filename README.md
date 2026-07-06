@@ -46,8 +46,8 @@ The system currently supports the following doctors, each with a fixed weekly sc
 
 | Doctor | Specialty | Working Days | Hours |
 |--------|-----------|---------------|-------|
-| Dr. Ali Raza | General Physician | Monday to Friday | 09:00 to 17:00 |
-| Dr. Sara Khan | Cardiologist | Monday, Wednesday, Friday | 10:00 to 15:00 |
+| Dr. John Smith | General Physician | Monday to Friday | 09:00 to 17:00 |
+| Dr. Sara | Cardiologist | Monday, Wednesday, Friday | 10:00 to 15:00 |
 
 Appointment slots are calculated in 30 minute increments within each doctor's working hours. A slot is considered available if it falls within the doctor's schedule and has not already been booked for that date.
 
